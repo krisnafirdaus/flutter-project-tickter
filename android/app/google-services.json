@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215554953891",
+    "project_id": "flutter-krisna",
+    "storage_bucket": "flutter-krisna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215554953891:android:97f99ae1b803f09df02516",
+        "android_client_info": {
+          "package_name": "com.krisnafirdaus.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMs5w_MvR6-lbRKNT7whxWJ4hri8Voms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215554953891:android:6cc9c7c76abdfddcf02516",
+        "android_client_info": {
+          "package_name": "com.krisnafirdaus.flutter_application_1mple.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMs5w_MvR6-lbRKNT7whxWJ4hri8Voms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
